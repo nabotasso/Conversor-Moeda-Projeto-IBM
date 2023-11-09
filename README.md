@@ -1,5 +1,6 @@
 # Conversor de Moedas - Projeto Acadêmico
 > Projeto desenvolvido em grupo com fins acadêmicos, desenvolvido perante demanda para conclusão da Trilha de Desenvolvimento Web, parceria entre o programa Match e a IBM.
+> Link para vídeo de funcionamento da aplicação: https://drive.google.com/drive/folders/1byF2lrJaBDKj8KfYnR3P-loKSjIvz0DR
 
 ## Informações do projeto
 Foi solicitado um projeto final para conclusão do 2° módulo da Trilha de Desenvolvimento Web (parceria entre o programa Match e a IBM), dentre as opções de projetos, escolhemos o "Projeto 4: Conversor de Moedas com Validação de Dados".
